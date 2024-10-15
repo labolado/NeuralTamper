@@ -3,7 +3,7 @@
 
 # Introducing NeuralTamper: Your AI-Powered Tampermonkey Assistant
 
-NeuralTamper is a revolutionary AI-driven Tampermonkey extension that transforms the way you interact with websites. By harnessing the power of artificial intelligence, NeuralTamper allows you to effortlessly create and execute custom scripts tailored to your specific needs.
+NeuralTamper is a AI-driven Tampermonkey extension that transforms the way you interact with websites. 
 
 ## Key Features:
 
